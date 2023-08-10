@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/DevCM-photo-app/static/css/main.57e4ebba.css",
+    "main.js": "/DevCM-photo-app/static/js/main.cd5f160e.js",
+    "static/media/kingoth.png": "/DevCM-photo-app/static/media/kingoth.c4a8cccd0476f5d5067c.png",
+    "static/media/phil.png": "/DevCM-photo-app/static/media/phil.9ca4a81841f475fa059e.png",
+    "static/media/cm_funny_logo.png": "/DevCM-photo-app/static/media/cm_funny_logo.c5040aaa55ce817e93dc.png",
+    "static/media/yoshi_pro.png": "/DevCM-photo-app/static/media/yoshi_pro.6529fa697ca9a19204f2.png",
+    "static/media/cm_face_logo.png": "/DevCM-photo-app/static/media/cm_face_logo.7e2316ef6e9a0d5db418.png",
+    "static/media/correy_hacker.png": "/DevCM-photo-app/static/media/correy_hacker.5027ea4338ba74091598.png",
+    "static/media/yoshi_young.png": "/DevCM-photo-app/static/media/yoshi_young.86d9713623bdd1be35d1.png",
+    "static/media/phil_horse.png": "/DevCM-photo-app/static/media/phil_horse.61b92d58ecae4adc4c35.png",
+    "static/media/adam_vans3.png": "/DevCM-photo-app/static/media/adam_vans3.cb6826972bcfd0d7c5cc.png",
+    "static/media/lanky.png": "/DevCM-photo-app/static/media/lanky.e4433d1859ffca4e2dea.png",
+    "static/media/rican_bigskate.png": "/DevCM-photo-app/static/media/rican_bigskate.fb38499d397982b7bd8d.png",
+    "static/media/adam_vans1.png": "/DevCM-photo-app/static/media/adam_vans1.50b1f5bbae1e82173849.png",
+    "static/media/correy_cover.png": "/DevCM-photo-app/static/media/correy_cover.d9e4acd1659dbf09c81f.png",
+    "static/media/adam_vans2.png": "/DevCM-photo-app/static/media/adam_vans2.08b0305f1eb243f7f6f8.png",
+    "static/media/yoshi_mom.png": "/DevCM-photo-app/static/media/yoshi_mom.45af272470614e2bbb29.png",
+    "static/media/friends_skate.png": "/DevCM-photo-app/static/media/friends_skate.58b89d7321ff858b3c82.png",
+    "static/media/banana_baker.png": "/DevCM-photo-app/static/media/banana_baker.665b218ee0dd19ab8eb5.png",
+    "static/media/carlos_dog.png": "/DevCM-photo-app/static/media/carlos_dog.b65a0f62f802f68f47f5.png",
+    "static/media/phil_sun.png": "/DevCM-photo-app/static/media/phil_sun.8458c0d30b5d8183f41e.png",
+    "static/media/anthony_vans.png": "/DevCM-photo-app/static/media/anthony_vans.d7769e4829c384c99963.png",
+    "static/media/adam_vans4.png": "/DevCM-photo-app/static/media/adam_vans4.35bfe887e0991a3864c8.png",
+    "static/media/adam_skate.png": "/DevCM-photo-app/static/media/adam_skate.d4b0b4d1807c93c6f85e.png",
+    "static/media/adam_eyes.png": "/DevCM-photo-app/static/media/adam_eyes.bfa61156d9bcf6404b51.png",
+    "static/media/funny_adam.png": "/DevCM-photo-app/static/media/funny_adam.69faed9b44f2139b2239.png",
+    "static/media/york.png": "/DevCM-photo-app/static/media/york.f59b3b15e58be6d6722f.png",
+    "static/media/adam_ad.png": "/DevCM-photo-app/static/media/adam_ad.1a44150c3b12ea8c8fd4.png",
+    "index.html": "/DevCM-photo-app/index.html",
+    "main.57e4ebba.css.map": "/DevCM-photo-app/static/css/main.57e4ebba.css.map",
+    "main.cd5f160e.js.map": "/DevCM-photo-app/static/js/main.cd5f160e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57e4ebba.css",
+    "static/js/main.cd5f160e.js"
+  ]
+}
