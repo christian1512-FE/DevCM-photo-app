@@ -1,0 +1,20 @@
+
+.header-container {
+    background-color:#ffc40c;
+}
+
+.face_logo {
+    display: flex;
+    justify-content: center;
+    max-width: 1250px;
+    min-height: 30vh;
+    margin: auto;
+    padding: 30px;
+}
+
+.face_logo img {
+    margin: 50px;
+    height: 250px;
+    width: 350px;
+}
+
