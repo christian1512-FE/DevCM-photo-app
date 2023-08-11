@@ -5,6 +5,8 @@ import adam_vans1 from "../../assets/adam_vans1.png";
 import adam_vans2 from "../../assets/adam_vans2.png";
 import adam_vans3 from "../../assets/adam_vans3.png";
 import adam_vans4 from "../../assets/adam_vans4.png";
+import adam_nf from "../../assets/adam_nf.png";
+
 import anthony_vans from "../../assets/anthony_vans.png";
 import banana_baker from "../../assets/banana_baker.png";
 import york from "../../assets/york.png";
@@ -23,7 +25,6 @@ import funny_adam from "../../assets/funny_adam.png";
 import phil_horse from "../../assets/phil_horse.png";
 import correy_cover from "../../assets/correy_cover.png";
 import lanky from "../../assets/lanky.png";
-import kingoth from "../../assets/kingoth.png";
 
 import "./photos.css";
 
@@ -36,6 +37,7 @@ function Photos() {
       <img src={adam_vans3} alt="logo" />
       <img src={adam_vans4} alt="logo" />
       <img src={anthony_vans} alt="logo" />
+      <img src={adam_nf} alt="logo" />
       <img src={banana_baker} alt="logo" />
       <img src={york} alt="logo" />
       <img src={phil_sun} alt="logo" />
@@ -53,7 +55,6 @@ function Photos() {
       <img src={funny_adam} alt="logo" />
       <img src={phil_horse} alt="logo" />
       <img src={lanky} alt="logo" />
-      <img src={kingoth} alt="logo" />
     </div>
   );
 }
