@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DevCM-photo-app/static/css/main.079394ff.css",
-    "main.js": "/DevCM-photo-app/static/js/main.cd5f160e.js",
+    "main.js": "/DevCM-photo-app/static/js/main.5dcbd62f.js",
     "static/media/kingoth.png": "/DevCM-photo-app/static/media/kingoth.c4a8cccd0476f5d5067c.png",
     "static/media/phil.png": "/DevCM-photo-app/static/media/phil.9ca4a81841f475fa059e.png",
     "static/media/cm_funny_logo.png": "/DevCM-photo-app/static/media/cm_funny_logo.c5040aaa55ce817e93dc.png",
@@ -20,20 +20,20 @@
     "static/media/friends_skate.png": "/DevCM-photo-app/static/media/friends_skate.58b89d7321ff858b3c82.png",
     "static/media/banana_baker.png": "/DevCM-photo-app/static/media/banana_baker.665b218ee0dd19ab8eb5.png",
     "static/media/carlos_dog.png": "/DevCM-photo-app/static/media/carlos_dog.b65a0f62f802f68f47f5.png",
+    "static/media/anthony_vans.png": "/DevCM-photo-app/static/media/anthony_vans.fcc637344608d700fa56.png",
     "static/media/phil_sun.png": "/DevCM-photo-app/static/media/phil_sun.8458c0d30b5d8183f41e.png",
-    "static/media/anthony_vans.png": "/DevCM-photo-app/static/media/anthony_vans.d7769e4829c384c99963.png",
     "static/media/adam_vans4.png": "/DevCM-photo-app/static/media/adam_vans4.35bfe887e0991a3864c8.png",
     "static/media/adam_skate.png": "/DevCM-photo-app/static/media/adam_skate.d4b0b4d1807c93c6f85e.png",
     "static/media/adam_eyes.png": "/DevCM-photo-app/static/media/adam_eyes.bfa61156d9bcf6404b51.png",
     "static/media/funny_adam.png": "/DevCM-photo-app/static/media/funny_adam.69faed9b44f2139b2239.png",
+    "static/media/adam_ad.png": "/DevCM-photo-app/static/media/adam_ad.1124a9db22ab2dea2b8a.png",
     "static/media/york.png": "/DevCM-photo-app/static/media/york.f59b3b15e58be6d6722f.png",
-    "static/media/adam_ad.png": "/DevCM-photo-app/static/media/adam_ad.1a44150c3b12ea8c8fd4.png",
     "index.html": "/DevCM-photo-app/index.html",
     "main.079394ff.css.map": "/DevCM-photo-app/static/css/main.079394ff.css.map",
-    "main.cd5f160e.js.map": "/DevCM-photo-app/static/js/main.cd5f160e.js.map"
+    "main.5dcbd62f.js.map": "/DevCM-photo-app/static/js/main.5dcbd62f.js.map"
   },
   "entrypoints": [
     "static/css/main.079394ff.css",
-    "static/js/main.cd5f160e.js"
+    "static/js/main.5dcbd62f.js"
   ]
 }
