@@ -11,7 +11,6 @@ import york from "../../assets/york.png";
 import phil_sun from "../../assets/phil_sun.png";
 import phil from "../../assets/phil.png";
 import adam_eyes from "../../assets/adam_eyes.png";
-
 import carlos_dog from "../../assets/carlos_dog.png";
 import correy_hacker from "../../assets/correy_hacker.png";
 import friends_skate from "../../assets/friends_skate.png";
@@ -49,13 +48,10 @@ function Photos() {
       <img src={yoshi_pro} alt="logo" />
       <img src={yoshi_young} alt="logo" />
       <img src={adam_skate} alt="logo" />
-
-  
       <img src={rican_bigskate} alt="logo" />
       <img src={correy_cover} alt="logo" />
       <img src={funny_adam} alt="logo" />
       <img src={phil_horse} alt="logo" />
-
       <img src={lanky} alt="logo" />
       <img src={kingoth} alt="logo" />
     </div>
@@ -63,3 +59,7 @@ function Photos() {
 }
 
 export default Photos;
+
+
+
+
