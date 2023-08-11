@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/DevCM-photo-app/static/css/main.079394ff.css",
-    "main.js": "/DevCM-photo-app/static/js/main.5dcbd62f.js",
-    "static/media/kingoth.png": "/DevCM-photo-app/static/media/kingoth.c4a8cccd0476f5d5067c.png",
+    "main.js": "/DevCM-photo-app/static/js/main.775f1eac.js",
     "static/media/phil.png": "/DevCM-photo-app/static/media/phil.9ca4a81841f475fa059e.png",
     "static/media/cm_funny_logo.png": "/DevCM-photo-app/static/media/cm_funny_logo.c5040aaa55ce817e93dc.png",
     "static/media/yoshi_pro.png": "/DevCM-photo-app/static/media/yoshi_pro.6529fa697ca9a19204f2.png",
     "static/media/cm_face_logo.png": "/DevCM-photo-app/static/media/cm_face_logo.7e2316ef6e9a0d5db418.png",
     "static/media/correy_hacker.png": "/DevCM-photo-app/static/media/correy_hacker.5027ea4338ba74091598.png",
+    "static/media/adam_nf.png": "/DevCM-photo-app/static/media/adam_nf.ca73f3ffd030bbded18a.png",
     "static/media/yoshi_young.png": "/DevCM-photo-app/static/media/yoshi_young.86d9713623bdd1be35d1.png",
     "static/media/phil_horse.png": "/DevCM-photo-app/static/media/phil_horse.61b92d58ecae4adc4c35.png",
     "static/media/adam_vans3.png": "/DevCM-photo-app/static/media/adam_vans3.cb6826972bcfd0d7c5cc.png",
@@ -30,10 +30,10 @@
     "static/media/york.png": "/DevCM-photo-app/static/media/york.f59b3b15e58be6d6722f.png",
     "index.html": "/DevCM-photo-app/index.html",
     "main.079394ff.css.map": "/DevCM-photo-app/static/css/main.079394ff.css.map",
-    "main.5dcbd62f.js.map": "/DevCM-photo-app/static/js/main.5dcbd62f.js.map"
+    "main.775f1eac.js.map": "/DevCM-photo-app/static/js/main.775f1eac.js.map"
   },
   "entrypoints": [
     "static/css/main.079394ff.css",
-    "static/js/main.5dcbd62f.js"
+    "static/js/main.775f1eac.js"
   ]
 }
